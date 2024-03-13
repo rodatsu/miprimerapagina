@@ -148,3 +148,9 @@ footer {
 
 
 }
+
+.greeting {
+    align-items: center;
+    background-color: blueviolet;
+    color: #eeeeee;
+}
